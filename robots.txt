@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dotsonslabstech.com/sitemap.xml
